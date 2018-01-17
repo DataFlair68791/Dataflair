@@ -1,0 +1,3 @@
+# Dataflair
+To provide quality education at affordable price to help everyone develop their career in latest technologies. We aim to reach the mass through our unique pedagogy model for Self-paced learning and Instructor-led learning that includes personalized guidance, lifetime course access, 24×7 support, live project, resume and interview preparation and ready to work level learning. We aim to provide real time technical experience to learners through our expert instructors . We will strive to continuously upgrade our offerings ensuring that we can cover all technologies and courses are up-to-date with latest industry needs. For more information visit our website. https://data-flair.training/
+https://data-flair.training/
